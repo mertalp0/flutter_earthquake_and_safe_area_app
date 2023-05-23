@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deprem_ve_toplanma_alanlari.iml" filepath="$PROJECT_DIR$/deprem_ve_toplanma_alanlari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/deprem_ve_toplanma_alanlari_android.iml" filepath="$PROJECT_DIR$/android/deprem_ve_toplanma_alanlari_android.iml" />
+    </modules>
+  </component>
+</project>

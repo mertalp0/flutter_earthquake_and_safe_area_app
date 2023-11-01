@@ -1,7 +1,5 @@
 # flutter_earthquake_and_safe_area_app
- ![869shots_so](https://github.com/mertalp0/flutter_earthquake_and_safe_area_app/assets/108594172/150de4fd-4096-43a2-92c9-2ce884442268)
- ![177shots_so](https://github.com/mertalp0/flutter_earthquake_and_safe_area_app/assets/108594172/8c4b1887-74b7-4ec0-82fa-925931a2879f)
-
-![719shots_so](https://github.com/mertalp0/flutter_earthquake_and_safe_area_app/assets/108594172/77cbd705-9844-4b30-99d7-00883fda87a9)
-
-![160shots_so](https://github.com/mertalp0/flutter_earthquake_and_safe_area_app/assets/108594172/6e65fed8-f781-4574-91c5-76cdae8c2d0e)
+![872shots_so](https://github.com/mertalp0/flutter_earthquake_and_safe_area_app/assets/108594172/033121b6-68cd-4a66-8823-4b38771a55e1)
+![839shots_so](https://github.com/mertalp0/flutter_earthquake_and_safe_area_app/assets/108594172/6a4c8d34-5199-48f8-b372-70e88d1ea93a)
+![379shots_so](https://github.com/mertalp0/flutter_earthquake_and_safe_area_app/assets/108594172/e0d52aa7-a350-4b31-83d8-521ef943fd61)
+![64shots_so](https://github.com/mertalp0/flutter_earthquake_and_safe_area_app/assets/108594172/ba153055-6211-4a3a-b89e-b9c76ce718ae)

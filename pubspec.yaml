@@ -53,7 +53,7 @@ dependencies:
   permission_handler: ^10.2.0
   url_launcher: ^6.1.11
   google_fonts: ^4.0.4
-  polyline: ^1.0.2
+ 
   
  
 dev_dependencies:

@@ -91,8 +91,7 @@ class FieldsItem extends StatelessWidget {
                                       BlocProvider.of<PermissionBloc>(context),
                                   builder: (context, state2) {
                                     if (state2 is PermissionGrantedState) {
-                                      state.fields.sort((a,
-                                              b) => //state ile gelen listeyi bulundugumuz konuma olan uzaklıgına gore guncelledik.
+                                      state.fields.sort((a,b) => //state ile gelen listeyi bulundugumuz konuma olan uzaklıgına gore guncelledik.
                                           distanceCalculation(
                                                   a.longitude,
                                                   a.latitude,
